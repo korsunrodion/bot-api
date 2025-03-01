@@ -9,10 +9,10 @@
 
 ```yarn migration:up```
 
-4. Run seeds
+4. Run seed
    
-```yarn seeds:dev```
+```yarn seed:dev```
 
-5. Run development server
+1. Run development server
 
 ```yarn dev```
